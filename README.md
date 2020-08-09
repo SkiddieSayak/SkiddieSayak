@@ -24,17 +24,21 @@
 ---
 
 ### 📕 Latest News Mention's
-<!-- BLOG-POST-LIST:START -->
+
 - [Discover How Mediflic is Making the World a Healthier Place](https://www.burstiq.com/discover-how-mediflic-is-making-the-world-a-healthier-place/)
 - [UEM, Kolkata, students received award from Honourable Prime Minister Shri Narendra Modi ](https://uem.edu.in/news-events/sayak-dhar-cse-saswata-dascse-debanjit-sarkarcse-students-university-engineering-management-uem-kolkata-students-university-engineering-management-uem-kolkata-receiv/)
 - [OSA FIO / SLC 2017](https://uem.edu.in/news-events/sayak-dhar-2nd-year-student-university-engineering-management-uem-selected-travel-united-states-america-travel-grant-optical-society-america-osa/)
 - [Global hackathon award for trio - Telegraph India](https://www.telegraphindia.com/west-bengal/global-hackathon-award-for-trio/cid/1408241)
 - [Meet Kolkata's student entrepreneurs- Times of India ](https://timesofindia.indiatimes.com/life-style/spotlight/meet-kolkatas-student-entrepreneurs/articleshow/63881290.cms)
+
+
+<!-- ### 📕 Latest News Mention's -->
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<img align="left" alt="SkiddieSayak's Github Stats" src="https://github-readme-stats.skiddiesayak.vercel.app/api?username=SkiddieSayak&show_icons=true&hide_border=true" />
+<img align="left" alt="SkiddieSayak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkiddieSayak&show_icons=true&hide_border=true" />
 
 [website]: https://mediflic.com
 [twitter]: https://twitter.com/skiddieSayak
