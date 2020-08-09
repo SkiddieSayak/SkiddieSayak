@@ -37,11 +37,11 @@
 <img align="left" alt="SkiddieSayak's Github Stats" src="https://github-readme-stats.skiddiesayak.vercel.app/api?username=SkiddieSayak&show_icons=true&hide_border=true" />
 
 [website]: https://mediflic.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[facebook]: https://facebook.com/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/skiddieSayak
+[youtube]: https://youtube.com/sayakdhar
+[instagram]: https://instagram.com/sayakdhar
+[facebook]: https://facebook.com/sayakd.skid
+[linkedin]: https://linkedin.com/in/sayakdhar
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
