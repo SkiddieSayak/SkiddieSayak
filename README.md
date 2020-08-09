@@ -38,7 +38,9 @@
 
 ---
 
-<img align="left" alt="SkiddieSayak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkiddieSayak&show_icons=true&hide_border=true" />
+<img align="center" alt="SkiddieSayak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkiddieSayak&show_icons=true&hide_border=true&count_private=true&&theme=vue" />
+<img align="center" alt="SkiddieSayak's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skiddiesayak&show_icons=true&hide_border=true&count_private=true&&theme=vue" />
+
 
 [website]: https://mediflic.com
 [twitter]: https://twitter.com/skiddieSayak
