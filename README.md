@@ -2,7 +2,7 @@
   📧 sayak@live.in | 📲 +91 8013951139
 
 ## I'm a Product Manager cum Software Developer!
-- 🔭 I’m currently working as <strong>Software Developer @ [Mediflic][website]</strong>! 
+- 🔭 I’m currently working as <strong>Tech Lead @ [Kreative Machinez][website]</strong>! 
 - 🎓 I hold B.Tech degree in Computer Science & Engineering from <strong>University of Engineering & Management, Kolkata</strong>
 - 🌱 I’m currently learning everything 🤣
 
@@ -42,7 +42,7 @@
 <img align="center" alt="SkiddieSayak's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skiddiesayak&theme=vue&layout=compact" />
 
 
-[website]: https://mediflic.com
+[website]: https://kreativemachinez.com
 [twitter]: https://twitter.com/skiddieSayak
 [youtube]: https://youtube.com/sayakdhar
 [instagram]: https://instagram.com/sayakdhar
