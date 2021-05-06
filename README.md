@@ -1,4 +1,4 @@
-### Hi there, I'm Sayak Dhar [MYwebsite] 👋
+### Hi there, I'm Sayak Dhar[MYwebsite] 👋
   📧 sayak@live.in | 📲 +91 8013951139
 
 ## I'm a Software Consultant!
