@@ -1,4 +1,4 @@
-### Hi there, I'm Sayak Dhar[MYwebsite] 👋
+### Hi there, I'm Sayak Dhar[mywebsite] 👋
   📧 sayak@live.in | 📲 +91 8013951139
 
 ## I'm a Software Consultant!
@@ -42,7 +42,7 @@
 <img align="center" alt="SkiddieSayak's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skiddiesayak&theme=vue&layout=compact" />
 
 
-[MYwebsite]: https://sayakdhar.com
+[mywebsite]: https://sayakdhar.com
 [website]: https://kreativemachinez.com
 [twitter]: https://twitter.com/skiddieSayak
 [youtube]: https://youtube.com/sayakdhar
