@@ -2,7 +2,7 @@
   📧 sayak@live.in | 📲 +91 8013951139 / 📲 +91 7003517304
 
 ## I'm a Software Consultant!
-- 🔭 I’m currently working as <strong>Tech Lead @ [Kreative Machinez][website] & [WLHPL]</strong>! 
+- 🔭 I’m currently working as <strong>Tech Lead @ [Kreative Machinez][website] & WLHPL</strong>! 
 - 🎓 I hold B.Tech degree in Computer Science & Engineering from <strong>University of Engineering & Management, Kolkata</strong>
 - 🌱 I’m currently learning everything 🤣
 
