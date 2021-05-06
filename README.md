@@ -1,5 +1,5 @@
 ### Hi there, I'm [Sayak Dhar][mywebsite] 👋
-  📧 sayak@live.in | 📲 +91 8013951139
+  📧 sayak@live.in | 📲 +91 8013951139 / 📲 +91 7003517304
 
 ## I'm a Software Consultant!
 - 🔭 I’m currently working as <strong>Tech Lead @ [Kreative Machinez][website] & [WLHPL]</strong>! 
@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sayakdhar.com" width="22px" src="https://image.flaticon.com/icons/svg/814/814513.svg" />][website]
+[<img align="left" alt="sayakdhar.com" width="22px" src="https://image.flaticon.com/icons/svg/814/814513.svg" />][mywebsite]
 [<img align="left" alt="sayakdhar | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="sayakdhar | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/145/145802.svg"/>][facebook]
 [<img align="left" alt="SkiddieSayak | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/145/145812.svg" />][twitter]
