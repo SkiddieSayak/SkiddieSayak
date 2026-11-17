@@ -13,7 +13,7 @@
 
 ---
 
-I'm the **Co-Founder & Chief Technology Officer at [Fortmindz](https://fortmindz.com/)**, where I lead technology strategy, software architecture, product engineering, and engineering teams — helping businesses turn ideas into scalable digital solutions.
+I'm the **Founder & Chief Technology Officer at [Fortmindz](https://fortmindz.com/)**, where I lead technology strategy, software architecture, product engineering, and engineering teams — helping businesses turn ideas into scalable digital solutions.
 
 I enjoy working across the technology lifecycle: understanding business problems, shaping product strategy, designing architectures, and delivering production-ready software.
 
@@ -27,7 +27,7 @@ I enjoy working across the technology lifecycle: understanding business problems
 
 ### About me
 
-- Co-Founder & CTO at [Fortmindz](https://fortmindz.com/)
+- Founder & CTO at [Fortmindz](https://fortmindz.com/)
 - B.Tech in Computer Science & Engineering, University of Engineering & Management, Kolkata.
 - Global Cybersecurity Hackathon winner, recognised by the Hon'ble Prime Minister of India.
 - Interested in AI, emerging technologies, product innovation, and solving real-world problems.
